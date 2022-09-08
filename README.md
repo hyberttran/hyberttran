@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyberttran, I live in Bien Hoa, Dong Nai, Vietnam.
 - 👀 I’m interested in doing automate the boring stuff with python.
-- 🌱 I’m currently learning to coding python processing app in my electronic equipment manufacturer.
+- 🌱 I’m currently learning to coding python processing app in the electronic equipment manufacturer.
 - 💞️ I’m looking to collaborate on electronic processing engineer, I want writing a work flow for: PCBA modem testing, assembling camera part, control quality of production process...
 - 📫 Reach me on Telegram or Zalo: +84797355262
 
