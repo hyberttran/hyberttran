@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hyberttran, I live in Bien Hoa, Dong Nai, Vietnam.
+- 👋 Hi, I’m @hyberttran
 - 👀 I’m interested in doing automate the boring stuff with python, microcontroller, embedded computer...
 
 <!---
